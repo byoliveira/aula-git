@@ -1,0 +1,4 @@
+Nome: Lucas
+Idade: 34
+Cidade: São José dos Campos
+UF: SP
