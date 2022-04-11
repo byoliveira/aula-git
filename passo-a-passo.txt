@@ -1,0 +1,14 @@
+1 Passo - Iniciar o GIT no projeto
+  git init
+
+2 Passo - Identificar arquivos de rastreio
+  git status - verificar os arquivo disponíveis
+  git add <arquivo>
+    Exemplo - git add file.txt | git add .
+
+3 Passo - Commit
+  git commit -m ""
+
+4 Passo - Push
+  4.1 BRANCH - Divisão de tarefas usando branch - git branch -M main
+  4.2 Alternando entre baranch -
