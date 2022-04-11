@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Nome: Bruno
 Idade: 25
 Cidade: Cariacica
 UF: ES
+=======
+nome: Ingrid Anjos
+idade: 31
+UF: SP
+>>>>>>> 96b6eb614305350165f98ce213326daee6be3ab1
