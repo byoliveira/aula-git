@@ -1,0 +1,3 @@
+nome: Ingrid Anjos
+idade: 31
+UF: SP
