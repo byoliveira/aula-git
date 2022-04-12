@@ -1,4 +1,7 @@
 Nome: Lucas
 Idade: 34
 Cidade: São José dos Campos
-UF: SP
+
+Nome: Tiago
+Idade: 35
+Cidade: São José dos campos
