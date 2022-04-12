@@ -1,7 +1,6 @@
-Nome: Lucas
-Idade: 34
-Cidade: São José dos Campos
 
-Nome: Tiago
-Idade: 35
-Cidade: São José dos campos
+Nome: Kleber
+Idade: 34
+Cidade: São Paulo
+UF: SP
+
